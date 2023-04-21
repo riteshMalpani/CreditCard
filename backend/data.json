@@ -1,0 +1,920 @@
+[
+  {
+    "name": "Chase Saphire Preferred",
+    "image_name": "ChaseSaphirePreferred.png",
+    "url": "https://secure09ea.chase.com/web/oao/application/card?sourceCode=GML4&action=guest#/origination/cardDetails/index/initiateConFullApp;cellCode=6W2H;cfgCode=FULLAPPCONCC;channel=C30;sourceCode=GML4;AOC=6530;RPC=0444;combo=Y;params=,,,no,no,,,ec04e225-fc8d-4576-9a4a-d6614996f70e",
+    "dining": 3,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 3,
+    "other": 1,
+    "annual_fee": 95,
+    "credit_score": 700,
+    "details": {
+      "line1" : "Earn 60,000 bonus points after you spend $4,000 on purchases in the first 3 months after account opening,* that's $750 in travel rewards when you redeem through Chase Ultimate Rewards",
+      "line2" : "Get 25% more value when you redeem for airfare, hotels, car rentals and cruises through Chase Ultimate Rewards. For example, 60,000 points are worth $750 toward travel",
+      "line3" : "Earn up to $50 in statement credits each account anniversary year for hotel stays purchased through Chase Ultimate Rewards"
+    }
+  },
+  {
+    "name": "Capital One Savor One",
+    "image_name": "CapitalOneSavorOne.png",
+    "url": "https://www.capitalone.com/credit-cards/dining-and-entertainment/?external_id=WWW_XXXXX_ZZZ_ONL-SE_ZZZZZ_T_SEM2_ZZZZ_c_Zg_9fc6e958-c375-4852-9fd0-9b3c539756b0_605523457141_667018&target_id=aud-366961790576:kwd-763010444586&oC=CO5ed2SUs1&gclid=CjwKCAjw3POhBhBQEiwAqTCuBpaDfmdU0HMaudpB37G875M9GQdK2xv1jKC9AFTmnXPmWFd3Ud1S7RoCRl0QAvD_BwE",
+    "dining": 2,
+    "travel": 3,
+    "gas": 1.5,
+    "streaming": 1.5,
+    "other": 1.5,
+    "annual_fee": 0,
+    "credit_score": 750,
+    "details": {
+      "line1" : "Earn a $200 cash rewards bonus after spending $500 in purchases in the first 3 months",
+      "line2" : "Earn unlimited 2X miles on every purchase, every day",
+      "line3" : "Receive up to a $100 credit for Global Entry or TSA PreCheck"
+    }
+  },
+  {
+    "name": "Chase Freedom Unlimited",
+    "image_name": "ChaseFreedomUnlimited.png",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited?CELL=6W2H",
+    "dining": 3,
+    "travel": 1.5,
+    "gas": 1.5,
+    "streaming": 1.5,
+    "other": 1.5,
+    "annual_fee": 0,
+    "credit_score": 680,
+    "details": {
+      "line1" : "Earn a $200 bonus after you spend $500 on purchases in the first 3 months from account opening.",
+      "line2" : "Earn 5% on travel purchased through Chase Ultimate Rewards",
+      "line3" : "Earn 1.5% on all other purchases"
+    }
+  },
+  {
+    "name": "Wells Fargo Active Cash",
+    "image_name": "WellsFargoActiveCash.png",
+    "url": "https://creditcards.wellsfargo.com/cards/active-cash-credit-card/?FPID=0126D7IDF40000&product_code=CC&subproduct_code=AC&sub_channel=SEM&vendor_code=G&cx_nm=CXNAME_PDCSPD&placement_id=71700000085003452_43700064609512146&gclid=cjwkcajw__ihbhadeiwaxeazjgvsjrrsffrrkjeeu0zoivox-30maggeipw7lld0mnxuum0vlhxn4hocyvqqavd_bwe&gclsrc=aw.ds",
+    "dining": 2,
+    "travel": 2,
+    "gas": 2,
+    "streaming": 2,
+    "other": 2,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn a $200 cash rewards bonus after spending $500 in purchases in the first 3 months",
+      "line2" : "Earn unlimited 2% cash rewards on purchases",
+      "line3" : "Get up to $600 of cell phone protection against damage or theft when cellphone bill payed with Wells Fargo card "
+    }
+  },
+  {
+    "name": "Wells Fargo Autograph",
+    "image_name": "WellsFargoAutograph.png",
+    "url": "https://creditcards.wellsfargo.com/cards/autograph-visa-credit-card/?FPID=012988I6P10000&product_code=CC&subproduct_code=AU&sub_channel=SEM&vendor_code=G&cx_nm=CXNAME_PDCSPD&placement_id=71700000085003452_43700064609512146&gclid=cjwkcajw__ihbhadeiwaxeazjgvsjrrsffrrkjeeu0zoivox-30maggeipw7lld0mnxuum0vlhxn4hocyvqqavd_bwe&gclsrc=aw.ds",
+    "dining": 3,
+    "travel": 3,
+    "gas": 3,
+    "streaming": 3,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 20,000 bonus points when you spend $1,000 in purchases in the first 3 months",
+      "line2" : "Earn unlimited 3x points on the things that reall add up",
+      "line3" : "Get up to $600 of cell phone protection against damage or theft when cellphone bill payed with Wells Fargo card"
+    }
+  },
+  {
+    "name": "Wells Fargo Reflect",
+    "image_name": "WellsFargoReflect.png",
+    "url": "https://creditcards.wellsfargo.com/cards/reflect-visa-credit-card/?FPID=013000IEF40000&product_code=CC&subproduct_code=VV&sub_channel=SEM&vendor_code=G&cx_nm=CXNAME_PDCSPD&lp_cx_nm=HPCTL_LH&placement_id=71700000085003452_43700064609512146&gclid=cjwkcajw__ihbhadeiwaxeazjgvsjrrsffrrkjeeu0zoivox-30maggeipw7lld0mnxuum0vlhxn4hocyvqqavd_bwe&gclsrc=aw.ds",
+    "dining": 0,
+    "travel": 0,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "0% intro APR for 18 months from account opening. This card will give you plenty of time to pay down debt or finance a large purchase, without being charged interest.",
+      "line2" : "Doesn't offer much in terms of ongoing value.",
+      "line3" : "Get up to $600 of cell phone protection against damage or theft when cellphone bill payed with Wells Fargo card"
+    }
+  } ,
+  {
+    "name": "Citi Custom Cash",
+    "image_name": "CitiCustomCash.png",
+    "url": "https://citicards.citi.com/usc/Multi/Featured/default.htm?cmp=knc|acquire|2004|FCP|CARDS|PRO|Google|BR&targetid=kwd-111769604&gclid=CjwKCAjw__ihBhADEiwAXEazJkjaLJOhUu9V2FqFefqgbPCnSBWpv5ihTbOTTTPEjsymDh7dLek7PhoCh8IQAvD_BwE&gclsrc=aw.ds&BT_TX=1",
+    "dining": 1,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn $200 cash back after you spend $1,500 on purchases in the first 6 months of account opening.",
+      "line2" : "0% Intro APR on purchases for 15 months from date of account opening and 0% Intro APR on balance transfers for 15 months from date of first transfer",
+      "line3" : "Earn 5% cash back on purchases in your top eligible spend category each billing cycle, up to the first $500 spent, and 1% cash back thereafter. Also earn unlimited 1% cash back on all other purchases."
+    }
+  } ,
+  {
+    "name": "Citi Diamond Preferred",
+    "image_name": "CitiDiamondPreferred.png",
+    "url": "https://citicards.citi.com/usc/LPACA/Citi/Cards/DiamondPreferred/ps_F/index.html?cmp=knc|acquire|2006|CARDS|Google|BR&gclid=CjwKCAjw__ihBhADEiwAXEazJq5OWta6LOAoiMY-5AIOzqTniKpaj9pnsWTAfJ_Daq2rbjfsn2N_VBoC1T8QAvD_BwE&gclsrc=aw.ds&ProspectID=PTlApQMvQumY8KpB2rKfox8YLQtQ8tPg",
+    "dining": 0,
+    "travel": 0,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "0% Intro APR for 21 months on balance transfers and 12 months on purchases",
+      "line2" : "No sign on bonus currently running",
+      "line3" : "Doesn't offer much in terms of ongoing value"
+    }
+  } ,
+  {
+    "name": "Citi Premier",
+    "image_name": "CitiPremier.png",
+    "url": "https://citicards.citi.com/usc/LPACA/Citi/Rewards/Premier/ps/index.html?cmp=knc|acquire|2006|CARDS|Google|BR&targetid=kwd-1341631461&gclid=CjwKCAjw__ihBhADEiwAXEazJjWBLAmFTXRzXlk-94rgkX5qskxRmkeWduVeLdspqEOmMWApC-K3VxoCVjsQAvD_BwE&gclsrc=aw.ds&ProspectID=PtWmZZsD7mEO1UVm2EscxOz7M1FasT0S",
+    "dining": 3,
+    "travel": 3,
+    "gas": 3,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 95,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 60,000 points after $4,000 in purchases within 3 months of account opening.",
+      "line2" : "60,000 ThankYou® Points are redeemable for $600 in gift cards",
+      "line3" : "Enjoy $100 off a single hotel stay of $500 or more, excluding taxes and fees, through thankyou.com, once per calendar year"
+    }
+  } ,
+  {
+    "name": "Citi Double Cash",
+    "image_name": "CitiDoubleCash.png",
+    "url": "https://citicards.citi.com/usc/LPACA/Citi/Cards/DoubleCash/ps_A/index.html?cmp=knc|acquire|2006|CARDS|Google|BR&targetid=aud-1135846524392:kwd-99517655125&gclid=CjwKCAjw__ihBhADEiwAXEazJm2s5Pr74qTGxS4-ggJjH3asyXnBqyZJCGG54btVMGuaHPWzNtndNxoCFFsQAvD_BwE&gclsrc=aw.ds&ProspectID=Puo805Ied3e0CPiMk2HKC5F2a02SEU4K",
+    "dining": 2,
+    "travel": 2,
+    "gas": 2,
+    "streaming": 2,
+    "other": 2,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 1% cash back on purchases and 1% as you pay for your purchases",
+      "line2" : "Earn unlimited 2% cash rewards on purchases",
+      "line3" : "0% for 18 months from date of transfer for balance transfers only"
+    }
+  }  ,
+  {
+    "name": "Citi Simplicity",
+    "image_name": "CitiSimplicit.png",
+    "url": "https://citicards.citi.com/usc/LPACA/Citi/Cards/Simplicity/ps/index.html?cmp=knc|acquire|2006|CARDS|Google|BR&targetid=aud-960047008207:kwd-48154682571&gclid=CjwKCAjw__ihBhADEiwAXEazJvwIlspOyZ5Zn1gylOkGROfj6SHVAynIbetO52agfUNp8PVGQc1wLBoC7WMQAvD_BwE&gclsrc=aw.ds&ProspectID=PwKyQtb447yq9zsCnezX9WyzwdhUqywa",
+    "dining": 0,
+    "travel": 0,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Enjoy 0% Intro APR on balance transfers for 21 months from date of first transfer",
+      "line2" : "Enjoy 0% Intro APR on purchases for 12 months from date of account opening",
+      "line3" : "Doesn't offer much in terms of ongoing value"
+    }
+  } ,
+  {
+    "name": "Citi Rewards+",
+    "image_name": "CitiRewards.png",
+    "url": "https://citicards.citi.com/usc/LPACA/Citi/Rewards/RewardsPlus/PS/index.html?cmp=knc|acquire|2006|CARDS|Google|BR&targetid=aud-261786456867:kwd-607118962069&gclid=CjwKCAjw__ihBhADEiwAXEazJq0s0Y736sFvCnwJubEjyY-VHJ5Z5FkIxmjaQQuWvz-oOHubUmhhphoCqlIQAvD_BwE&gclsrc=aw.ds&ProspectID=PMgHhOtbb3XMX8A2q3msefw1EIAFx78I",
+    "dining": 1,
+    "travel": 1,
+    "gas": 2,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 20,000 bonus point after $1,500 in purchases within 3 months of account opening and pay no Annual Fee*",
+      "line2" : "0% Intro APR on purchases for 15 months from date of account opening and 0% Intro APR on balance transfers for 15 months from date of first transfer",
+      "line3" : "Earn 2 ThankYou® Points per $1 spent at Supermarkets and Gas Stations for the first $6,000 per year and 1 point per $1 thereafter"
+    }
+  } ,
+  {
+    "name": "Costco Anywhere Visa",
+    "image_name": "CostcoAnywhereVisa.png",
+    "url": "https://citicards.citi.com/usc/LPACA/COSTCO/cards/Dual/ps/index.html?cmp=knc|acquire|2006|CARDS|Google|BR&targetid=kwd-631985255239&gclid=CjwKCAjw__ihBhADEiwAXEazJrfYI9LsNtDv3VMV0QVWOK-TDTbsn-2Y7xar4YHuTU0DgGRn3bc6_BoCy54QAvD_BwE&gclsrc=aw.ds&ProspectID=PlNLMnwARuTtaoARUz8kdsUFAMK16kon",
+    "dining": 3,
+    "travel": 3,
+    "gas": 4,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "3% cash back on restaurant and eligible travel purchases worldwide. 2% cash back on all other purchases from Costco and Costco.com. 1% cash back on all other purchases.",
+      "line2" : "Earn 4% cash back on eligible gas and EV charging for the first $7,000 per year and then 1% thereafter.",
+      "line3" : "No matter where you are traveling, when you use your Costco Anywhere Visa® Card by Citi there are no foreign transaction fees on purchases"
+    }
+  } ,
+  {
+    "name": "Citi AAdvantage Platinum Select",
+    "image_name": "CitiAAdvantagePlatinumSelect.png",
+    "url": "https://citicards.citi.com/usc/LPACA/AA/AAdvantage/Platinum/PS/index.html?cmp=knc%7cacquire%7c2006%7cCARDS%7cGoogle%7cBR&gad=1&gclid=CjwKCAjw__ihBhADEiwAXEazJpXjb7wxsrN4Bu2Lnr_LAxY99312u67ibl6q1ALb6aVfpGCC5z5GrhoCajAQAvD_BwE&gclsrc=aw.ds&ProspectID=PsuGSSVimPBVduRvgRsEWZvbJQcycBSi",
+    "dining": 2,
+    "travel": 1,
+    "gas": 2,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 99,
+    "credit_score": 690,
+    "details": {
+      "line1" : "For a limited time earn 75,000 American Airlines AAdvantage® bonus miles after $3,500 in qualifying purchases within the first 4 months of account opening",
+      "line2" : "$99 annual fee Waived for the first 12 months",
+      "line3" : "Earn a $125 American Airlines Flight Discount after you spend $20,000 or more in purchases during your card membership year and renew your card."
+    }
+  } ,
+  {
+    "name": "American Airlines AAdvantage MileUp",
+    "image_name": "AmericanAirlinesAAdvantageMileUp.png",
+    "url": "https://citicards.citi.com/usc/LPACA/AA/AAdvantage/Platinum/PS/index.html?cmp=knc%7cacquire%7c2006%7cCARDS%7cGoogle%7cBR&gad=1&gclid=CjwKCAjw__ihBhADEiwAXEazJpXjb7wxsrN4Bu2Lnr_LAxY99312u67ibl6q1ALb6aVfpGCC5z5GrhoCajAQAvD_BwE&gclsrc=aw.ds&ProspectID=PsuGSSVimPBVduRvgRsEWZvbJQcycBSi",
+    "dining": 1,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 10,000 American Airlines AAdvantage® bonus miles and receive a $50 statement credit after making $500 in purchases within the first 3 months of account opening",
+      "line2" : "Earn 2 AAdvantage® miles for every $1 spent at grocery stores, including grocery delivery services, and eligible American Airlines purchases. Earn 1 AAdvantage® mile for every $1 spent on other purchases.",
+      "line3" : "25% savings on American Airlines inflight food and beverage purchases made with your card."
+    }
+  } ,
+  {
+    "name": "Citi AAdvantage Executive World",
+    "image_name": "CitiAAdvantageExecutiveWorld.png",
+    "url": "https://citicards.citi.com/usc/LPACA/AA/AAdvantage/Platinum/PS/index.html?cmp=knc%7cacquire%7c2006%7cCARDS%7cGoogle%7cBR&gad=1&gclid=CjwKCAjw__ihBhADEiwAXEazJpXjb7wxsrN4Bu2Lnr_LAxY99312u67ibl6q1ALb6aVfpGCC5z5GrhoCajAQAvD_BwE&gclsrc=aw.ds&ProspectID=PsuGSSVimPBVduRvgRsEWZvbJQcycBSi",
+    "dining": 1,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 450,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 50,000 American Airlines AAdvantage® bonus miles after $5,000 in qualifying purchases within the first 3 months of account opening.",
+      "line2" : "Access to nearly 50 lounge locations worldwide for you and your immediate family (or up to 2 traveling guests that accompany you).",
+      "line3" : "Enjoy priority check-in, priority airport screening (where available) and boarding privileges for you and up to eight travel companions on the same reservation."
+    }
+  } ,
+  {
+    "name": "Bank Of America Customized Cas Rewards",
+    "image_name": "BankOfAmericaCustomizedCasRewards.png",
+    "url": "https://promo.bankofamerica.com/ccsearchlp10/compare-cards-1/?cm_mmc=Cons-CC-_-Google-PS-_-bank_of_america_customized_cash_rewards-_-Brand_Cash&code=BAAF32&gclid=CjwKCAjw__ihBhADEiwAXEazJlv-hX4KNOp0aU_sHutbWTFOGioqQjDvTrCqbkp8FJn_haJf9Zi_nRoC7jYQAvD_BwE&gclsrc=aw.ds",
+    "dining": 3,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "$200 Online Bonus after making at least $1,000 in purchases in the first 90 days of account opening",
+      "line2" : "3% cash back in the category of your choice: gas, online shopping, dining, travel, drug stores or home improvement/furnishings",
+      "line3" : "To change your choice category for future purchases, you must go to Online Banking, or use the Mobile Banking app. You can change it once each calendar month, or make no change and it stays the same."
+    }
+  } ,
+  {
+    "name": "Bank Of America Unlimited Cash Rewards",
+    "image_name": "BankOfAmericaUnlimitedCashRewards.png",
+    "url": "https://promo.bankofamerica.com/ccsearchlp10/compare-cards-1/?cm_mmc=Cons-CC-_-Google-PS-_-bank_of_america_unlimited_cash_rewards-_-Brand_Cash&code=BAAF8G&gclid=CjwKCAjw__ihBhADEiwAXEazJiD8x_PnUngwI_tHMKbGYKJ2ucgDAoUxNdjoBxlMGyuns9G7Lr3pLhoCKpIQAvD_BwE&gclsrc=aw.ds",
+    "dining": 1.5,
+    "travel": 1.5,
+    "gas": 1.5,
+    "streaming": 1.5,
+    "other": 1.5,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "$200 Online Bonus after making at least $1,000 in purchases in the first 90 days of account opening",
+      "line2" : "Unlimited 1.5% cash back on all purchases, no limit to the amount of cash back you can earn",
+      "line3" : "Low intro APR offer on purchases and qualifying balance transfers for 18 billing cycles"
+    }
+  } ,
+  {
+    "name": "Bank Of America Premium Rewards",
+    "image_name": "BankOfAmericaPremiumRewards.png",
+    "url": "https://promo.bankofamerica.com/ccsearchlp10/compare-cards-1/?cm_mmc=Cons-CC-_-Google-PS-_-bank_of_america_premium_rewards-_-Brand_Premium&code=BAAF1S&gclid=CjwKCAjw__ihBhADEiwAXEazJjbPfe9XbqOTXgc9gX_EG5dWAqO4z2hTAPwGjIt6ffniIEc9r3vjFBoCDNcQAvD_BwE&gclsrc=aw.ds",
+    "dining": 2,
+    "travel": 2,
+    "gas": 1.5,
+    "streaming": 1.5,
+    "other": 1.5,
+    "annual_fee": 95,
+    "credit_score": 690,
+    "details": {
+      "line1" : "50,000 Online Bonus Points a $500 value, after making at least $3,000 in purchases in the first 90 days of account opening",
+      "line2" : "Get up to $100 in Airport Security Statement Credits towards TSA PreCheck®/Global Entry Application fees, every four years",
+      "line3" : "Get up to $100 in Airline Incidental Statement Credits annually for qualifying purchases such as seat upgrades, baggage fees, in-flight services, and airline lounge fees—automatically applied to your card statement."
+    }
+  } ,
+  {
+    "name": "Bank Of America Travel Rewards",
+    "image_name": "BankOfAmericaTravelRewards.png",
+    "url": "https://promo.bankofamerica.com/ccsearchlp10/compare-cards-1/?cm_mmc=Cons-CC-_-Google-PS-_-bank_of_america_travel_rewards-_-Brand_Travel&code=BAAFWK&gclid=CjwKCAjw__ihBhADEiwAXEazJml3hUOBVJV7blWSL_EkkAJ37o1gdeySLqK2fM1cvVyFAwUrkIzD_xoCvZsQAvD_BwE&gclsrc=aw.ds",
+    "dining": 2,
+    "travel": 2,
+    "gas": 1.5,
+    "streaming": 1.5,
+    "other": 1.5,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "25,000 Online Bonus Points a $250 travel or dining statement credit value, after making at least $1,000 in purchases in the first 90 days of account opening",
+      "line2" : "Unlimited 1.5 points for every $1 spent on all purchases everywhere, every time",
+      "line3" : "Low intro APR offer on purchases and qualifying balance transfers for 18 billing cycles"
+    }
+  } ,
+  {
+    "name": "Chase Freedom Flex",
+    "image_name": "ChaseFreedomFlex.png",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex?CELL=6W2H",
+    "dining": 3,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn a $200 bonus after you spend $500 on purchases in the first 3 months from account opening",
+      "line2" : "Earn 5% cash back on different categories like gas stations, grocery stores (excluding Target® and Walmart®)*Same page link to Offer Details and select online merchants on up to $1,500 in total combined",
+      "line3" : "Earn 3% on dining at restaurants, including takeout and eligible delivery services."
+    }
+  } ,
+  {
+    "name": "Chase Saphire Reserve",
+    "image_name": "ChaseSaphireReserve.png",
+    "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve?CELL=6W2H",
+    "dining": 3,
+    "travel": 3,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 550,
+    "credit_score": 690,
+    "details": {
+      "line1" : "60,000 bonus points after you spend $4,000 on purchases in the first 3 months from account opening. That's $900 toward travel when you redeem through Chase Ultimate Rewards",
+      "line2" : "Automatically receive up to $300 in statement credits as reimbursement for travel purchases charged to your card each account anniversary year.",
+      "line3" : "Rest and revive before your flight at one of the 1,300+ VIP lounges in over 500 cities worldwide after an easy, one-time enrollment in Priority Pass"
+    }
+  } ,
+  {
+    "name": "Southwest Rapid Rewards Plus",
+    "image_name": "SouthwestRapidRewardsPlus.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/southwest/plus?CELL=6W2H",
+    "dining": 1,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 2,
+    "other": 1,
+    "annual_fee": 69,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 50,000 points after you spend $1,000 on purchases in the first 3 months from account opening",
+      "line2" : "Earn 2 points for each dollar spent on Southwest purchases",
+      "line3" : "3,000 anniversary points each year"
+    }
+  } ,
+  {
+    "name": "United Explorer",
+    "image_name": "UnitedExplorer.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer?CELL=6W2H",
+    "dining": 2,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 50,000 points after you spend $3,000 on purchases in the first 3 months from account opening",
+      "line2" : "Free first checked bag, save up to $140 per roundtrip",
+      "line3" : "25% back as a statement credit on purchases of food, beverages and Wi-Fi on board United-operated flights and on Club premium drinks when you pay with your Explorer Card"
+    }
+  } ,
+  {
+    "name": "Chase Freedom Student Card",
+    "image_name": "ChaseFreedomStudentCard.png",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/student?CELL=6W2H",
+    "dining": 0,
+    "travel": 0,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 0,
+    "credit_score": 600,
+    "details": {
+      "line1" : "$50 Bonus earned after first purchase made within the first 3 months from account opening",
+      "line2" : "$20 Good Standing Rewards after each account anniversary for up to 5 years",
+      "line3" : "Access your credit score at any time with Credit Journey"
+    }
+  } ,
+  {
+    "name": "Amazon Prime Rewards Visa",
+    "image_name": "AmazonPrimeRewardsVisa.png",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/amazon-prime-rewards?CELL=6W2H",
+    "dining": 2,
+    "travel": 1,
+    "gas": 2,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "$100 Amazon Gift Card will be instantly loaded into your Amazon.com account upon the approval of your credit card application with an eligible Prime membership",
+      "line2" : "Earn 5% Back at Amazon.com and Whole Foods Market with an eligible Prime membership",
+      "line3" : "Earn 2% Back at restaurants and gas stations"
+    }
+  } ,
+  {
+    "name": "Southwest Rapid Rewards Priority",
+    "image_name": "SouthwestRapidRewardsPriority.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/southwest/priority?CELL=6W2H",
+    "dining": 1,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 2,
+    "other": 1,
+    "annual_fee": 149,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 50,000 points after you spend $1,000 on purchases in the first 3 months from account opening",
+      "line2" : "7,500 points every year on your Cardmember anniversary.",
+      "line3" : "$75 Southwest annual travel credit"
+    }
+  } ,
+  {
+    "name": "Southwest Rapid Rewards Premier",
+    "image_name": "SouthwestRapidRewardsPremier.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/southwest/premier?CELL=6W2H",
+    "dining": 1,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 2,
+    "other": 1,
+    "annual_fee": 99,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 50,000 points after you spend $1,000 on purchases in the first 3 months from account opening",
+      "line2" : "10,000 Companion Pass qualifying points boost each year",
+      "line3" : "Earn 3 points for each dollar spent on Southwest purchases"
+    }
+  },
+  {
+    "name": "United Quest",
+    "image_name": "UnitedQuest.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/united/united-quest?CELL=6W2H",
+    "dining": 2,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 2,
+    "other": 1,
+    "annual_fee": 250,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 60,000 bonus miles + 500 Premier qualifying points (PQP) after you spend $4,000 on purchases in the first 3 months your account is open",
+      "line2" : "Receive up to $125 in statement credits each account anniversary year as reimbursement for United purchases charged to your United Quest Card",
+      "line3" : "Two 5,000-mile anniversary award flight credits"
+    }
+  } ,
+  {
+    "name": "United Gateway",
+    "image_name": "UnitedGateway.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/united/united-gateway?CELL=6W2H",
+    "dining": 1,
+    "travel": 1,
+    "gas": 2,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 20,000 bonus miles after you spend $1,000 on purchases in the first 3 months your account is open",
+      "line2" : "25% back on United inflight and Club premium drink purchases",
+      "line3" : "0% intro APR for the first 12 months from account opening on purchases. After that, a variable APR of 21.24% to 28.24%."
+    }
+  },
+  {
+    "name": "United Club Infinite",
+    "image_name": "UnitedClubInfinite.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite?CELL=6W2H",
+    "dining": 2,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 525,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 80,000 bonus miles after you spend $5,000 on purchases in the first 3 months from account opening. ",
+      "line2" : "United ClubSM membership, up to a $650 value per year",
+      "line3" : "Earn rewards faster with 4x miles on United purchases"
+    }
+  } ,
+  {
+    "name": "Marriott Bonvoy Boundless",
+    "image_name": "MarriottBonvoyBoundless.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless?CELL=6W2H",
+    "dining": 3,
+    "travel": 2,
+    "gas": 3,
+    "streaming": 2,
+    "other": 2,
+    "annual_fee": 95,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 3 Free Night Awards (each night valued up to 50,000 points) after you spend $3,000 on purchases in your first 3 months from your account opening.",
+      "line2" : "Up to 17X total points at Marriott",
+      "line3" : "As a Marriott Bonvoy Boundless® Cardmember, you'll enjoy a Free Night Award every year after your account anniversary"
+    }
+  } ,
+  {
+    "name": "Marriott Bonvoy Bountiful",
+    "image_name": "MarriottBonvoyBountiful.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful?CELL=6W2H",
+    "dining": 4,
+    "travel": 2,
+    "gas": 2,
+    "streaming": 2,
+    "other": 2,
+    "annual_fee": 250,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 85,000 Bonus Points after you spend $4,000 in purchases in your first 3 months from your account opening.",
+      "line2" : "Earn 6X points for every $1 spent at over 7,000 hotels participating in Marriott Bonvoy® with the Marriott Bonvoy Bountiful™ credit card",
+      "line3" : "Plus, earn up to 10X points from Marriott for being a Marriott Bonvoy® member"
+    }
+  },
+  {
+    "name": "Marriott Bonvoy Bold",
+    "image_name": "MarriottBonvoyBold.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold?CELL=6W2H",
+    "dining": 4,
+    "travel": 2,
+    "gas": 2,
+    "streaming": 2,
+    "other": 2,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 30,000 Bonus Points after you spend $1,000 on purchases in your first 3 months from your account opening",
+      "line2" : "Plus, earn up to 10X points from Marriott for being a Marriott Bonvoy® member",
+      "line3" : "Earn 3X points for every $1 spent at over 7,000 hotels participating in Marriott Bonvoy® with the Marriott Bonvoy Bold® credit card"
+    }
+  } ,
+  {
+    "name": "Disney Premier",
+    "image_name": "DisneyPremier.png",
+    "url": "https://creditcards.chase.com/rewards-credit-cards/disney/premier?CELL=6W2H",
+    "dining": 2,
+    "travel": 1,
+    "gas": 2,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 49,
+    "credit_score": 690,
+    "details": {
+      "line1" : "$300 Statement Credit after you spend $1000 on purchases in the first 3 months from account opening",
+      "line2" : "Enjoy a Disney Bundle",
+      "line3" : "Enjoy 0% promotional APR for 6 months on select Disney vacation packages from the date of purchase"
+    }
+  } ,
+  {
+    "name": "World of Hyatt",
+    "image_name": "WorldOfHyatt.png",
+    "url": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card?CELL=6W2H",
+    "dining": 2,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 95,
+    "credit_score": 690,
+    "details": {
+      "line1" : "30,000 Bonus Points after you spend $3,000 on purchases in your first 3 months",
+      "line2" : "4 Bonus Points per $1 spent on purchases at all Hyatt hotels",
+      "line3" : "Receive one free night at any Category 1 to 4 Hyatt hotel or resort every year after your cardmember anniversary"
+    }
+  } ,
+  {
+    "name": "American Express Blue Cash",
+    "image_name": "AmericanExpressBlueCash.png",
+    "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/blue-cash-everyday-credit-card/59000-10-0#/",
+    "dining": 2,
+    "travel": 2,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn $250 Back after you spend $2,000 in purchases on your new Card within the first 6 months of Card Membership.",
+      "line2" : "3% Cash Back at U.S. Supermarkets on eligible purchases, on up to $6,000 per year in purchases,",
+      "line3" : "Get a $7 monthly statement credit after using your enrolled Blue Cash Everyday Card to spend $12.99 or more each month on a subscription to The Disney Bundle."
+    }
+  } ,
+  {
+    "name": "American Express Gold",
+    "image_name": "AmericanExpressGold.png",
+    "url": "https://www.americanexpress.com/us/credit-cards/card/gold/",
+    "dining": 4,
+    "travel": 3,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 250,
+    "credit_score": 690,
+    "details": {
+      "line1" : "Earn 90,000 Membership Rewards® Points after you spend $4,000 in eligible purchases on the new Card within the first 6 months of Card Membership",
+      "line2" : "Enjoy up to $120 in Uber Cash annually with your Gold Card.",
+      "line3" : "Earn up to a total of $10 in statement credits monthly when you pay with the Gold Card at Grubhub, The Cheesecake Factory, Goldbelly, Wine.com, Milk Bar, and select Shake Shack locations"
+    }
+  } ,
+  {
+    "name": "American Express Platinum",
+    "image_name": "AmericanExpressPlatinum.png",
+    "url": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+    "dining": 1,
+    "travel": 5,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 695,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn 125,000 Membership Rewards® points after you spend $6,000 on purchases on your new Card in your first 6 months of Card Membership",
+      "line2" : "$200 Hotel Credit‡, $200 Airline Fee Credit",
+      "line3" : "$240 Digital Entertainment Credit, Experience the latest shows, audiobooks, music, news and recipes."
+    }
+  } ,
+  {
+    "name": "American Express Blue Cash Preferred",
+    "image_name": "AmericanExpressBlueCashPreferred.png",
+    "url": "https://card.americanexpress.com/d/blue-cash-preferred-credit-card/",
+    "dining": 1,
+    "travel": 1,
+    "gas": 3,
+    "streaming": 6,
+    "other": 1,
+    "annual_fee": 95,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn $300 Back after you spend $3,000 in purchases on your new Card within the first 6 month",
+      "line2" : "6% Cash Back at U.S. supermarkets on up to $6,000 per year in purchases ",
+      "line3" : "Low Intro APR 0% intro APR on purchases and balance transfers for 12 months from the date of account opening"
+    }
+  } ,
+  {
+    "name": "Delta SkyMiles Reserve",
+    "image_name": "DeltaSkyMilesReserve.png",
+    "url": "https://card.americanexpress.com/d/delta-reserve-credit-card/",
+    "dining": 1,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 550,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn 100,000 Bonus Miles and 10,000 Medallion® Qualification Miles",
+      "line2" : "3X miles on Delta purchases ",
+      "line3" : "Delta Sky Club Access and medallion status"
+    }
+  } ,
+  {
+    "name": "Delta SkyMiles Platinum",
+    "image_name": "DeltaSkyMilesPlatinum.png",
+    "url": "https://card.americanexpress.com/d/delta-platinum-credit-card/",
+    "dining": 3,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 250,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn 50,000 Bonus Miles after you spend $3,000 in purchases on your new Card within your first 6 months.",
+      "line2" : "3X miles on Delta purchases ",
+      "line3" : "Fee Credit for TSA PreCheck® or Global Entry"
+    }
+  },
+  {
+    "name": "Delta SkyMiles Gold",
+    "image_name": "DeltaSkyMilesGold.png",
+    "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/delta-skymiles-gold-american-express-card/59001-10-0#/",
+    "dining": 2,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 99,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn 75,000 Bonus Miles after you spend $2,000 in purchases on your new Card within your first 6 months.",
+      "line2" : "2X miles on Delta purchases ",
+      "line3" : "Earn a $100 Delta Flight Credit to use toward future travel after you spend $10,000 in eligible purchases on your Card in a calendar year"
+    }
+  } ,
+  {
+    "name": "Hilton Honors",
+    "image_name": "HiltonHonors.png",
+    "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/hilton-honors-credit-card/59000-10-0#/",
+    "dining": 0,
+    "travel": 1,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 0,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn 100,000 Hilton Honors Bonus Points after you spend $1,000 in purchases on the Card within your first 3 months of Card Membership",
+      "line2" : "Spend $20,000 on eligible purchases on your Card in a calendar year and you can earn Hilton Honors Gold status through the end of the next calendar year",
+      "line3" : "Main point rewards for Hilton Honors purchases"
+    }
+  },
+  {
+    "name": "Hilton Honors Surpass",
+    "image_name": "HiltonHonorsSurpass.png",
+    "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/hilton-honors-surpass-credit-card/59000-10-0#/",
+    "dining": 0,
+    "travel": 1,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 95,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Enjoy complimentary Hilton Honors Gold status with your Card",
+      "line2" : "Spend $40,000 on eligible purchases on your Card in a calendar year and you can earn an upgrade to Hilton Honors Diamond status through the end of the next calendar year.",
+      "line3" : "Spend $40,000 on eligible purchases on your Card in a calendar year and you can earn an upgrade to Hilton Honors Diamond status"
+    }
+  },
+  {
+    "name": "Hilton Honors Aspire",
+    "image_name": "HiltonHonorsAspire.png",
+    "url": "https://www.americanexpress.com/us/credit-cards/card-application/apply/hilton-honors-aspire-credit-card/28009-10-0#/",
+    "dining": 0,
+    "travel": 1.5,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 450,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Enjoy one Free Night Reward with your new Hilton Honors American Express Aspire Card and every year after renewal.",
+      "line2" : "Eligible to receive statement credits of up to $250  ",
+      "line3" : "Great benefits for Hilton purchases only"
+    }
+  } ,
+  {
+    "name": "Platinum Mastercard",
+    "image_name": "PlatinumMastercard.png",
+    "url": "https://www.capitalone.com/credit-cards/platinum/",
+    "dining": 0,
+    "travel": 0,
+    "gas": 0,
+    "streaming": 0,
+    "other": 0,
+    "annual_fee": 0,
+    "credit_score": 695,
+    "details": {
+      "line1" : "If your card is lost or stolen, you will not be responsible for unauthorized charges.",
+      "line2" : "Get notified via text, email, and phone if Capital One notices potential suspicious transactions on your account.",
+      "line3" : "Set up personalized email or text reminders to help you stay on top of your account."
+    }
+  },
+  {
+    "name": "Venture X Rewards",
+    "image_name": "VentureXRewards.png",
+    "url": "https://www.capitalone.com/credit-cards/venture-x/",
+    "dining": 2,
+    "travel": 2,
+    "gas": 2,
+    "streaming": 2,
+    "other": 2,
+    "annual_fee": 395,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn 75,000 bonus miles once you spend $4,000 on purchases within the first 3 months from account opening.",
+      "line2" : "Receive up to $300 back as statement credits for bookings through Capital One Travel",
+      "line3" : "Receive up to a $100 credit on Global Entry or TSA PreCheck"
+    }
+  },
+  {
+    "name": "Venture Rewards",
+    "image_name": "VentureRewards.png",
+    "url": "https://www.capitalone.com/credit-cards/venture/",
+    "dining": 2,
+    "travel": 2,
+    "gas": 2,
+    "streaming": 2,
+    "other": 2,
+    "annual_fee": 95,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn unlimited 2 miles per dollar on every purchase",
+      "line2" : "Earn 75,000 bonus miles once you spend $4,000 on purchases within the first 3 months from account opening",
+      "line3" : "Unlimited 2X miles with 75,000 Bonus Miles"
+    }
+  } ,
+  {
+    "name": "Quicksilver Rewards",
+    "image_name": "QuicksilverRewards.png",
+    "url": "https://www.capitalone.com/credit-cards/quicksilver-good-credit/",
+    "dining": 1.5,
+    "travel": 1.5,
+    "gas": 1.5,
+    "streaming": 1.5,
+    "other": 1.5,
+    "annual_fee": 0,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn unlimited 1.5% cash back per dollar on every purchase",
+      "line2" : "You will not pay a transaction fee when making a purchase outside of the United States.",
+      "line3" : "Get automatic insurance for a covered loss at no extra charge when you use your credit card to purchase your fare."
+    }
+  },
+  {
+    "name": "Savor Rewards",
+    "image_name": "SavorRewards.png",
+    "url": "https://www.capitalone.com/credit-cards/savor-dining-rewards/",
+    "dining": 4,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 4,
+    "other": 1,
+    "annual_fee": 95,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn unlimited 4% cash back on dining, entertainment, and popular streaming services, 3% at grocery stores and 1% on all other purchases",
+      "line2" : "Earn a one-time $300 cash bonus once you spend $3,000 on purchases within 3 months from account opening",
+      "line3" : "Enjoy access to can't-miss events while earning 8% cash back on Capital One Entertainment purchases with your Savor Card"
+    }
+  },
+  {
+    "name": "SavorOne Rewards",
+    "image_name": "SavorOneRewards.png",
+    "url": "https://www.capitalone.com/credit-cards/savorone-dining-rewards/",
+    "dining": 3,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 3,
+    "other": 1,
+    "annual_fee": 0,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn a one-time $200 cash bonus once you spend $500 on purchases within the first 3 months from account opening",
+      "line2" : "Earn unlimited 3% cash back on dining, entertainment, popular streaming services and at grocery stores, plus 1% on all other purchases",
+      "line3" : "Rewards don't expire for the life of the account, and you can redeem cash back for any amount."
+    }
+  },
+  {
+    "name": "QuicksilverOne Rewards",
+    "image_name": "QuicksilverOneRewards.png",
+    "url": "https://www.capitalone.com/credit-cards/quicksilverone/",
+    "dining": 1.5,
+    "travel": 1.5,
+    "gas": 1.5,
+    "streaming": 1.5,
+    "other": 1.5,
+    "annual_fee": 39,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn unlimited 1.5% cash back on every purchase, every day",
+      "line2" : "Get up to 6 months of complimentary Uber One membership through",
+      "line3" : "You're covered by $0 Fraud Liability if your card is ever lost or stolen. That means you will not be responsible for fraudulent purchases."
+    }
+  },
+  {
+    "name": "Captial One Walmart Rewards",
+    "image_name": "CaptialOneWalmartRewards.png",
+    "url": "https://www.capitalone.com/credit-cards/walmart-rewards/",
+    "dining": 1,
+    "travel": 1,
+    "gas": 1,
+    "streaming": 1,
+    "other": 1,
+    "annual_fee": 39,
+    "credit_score": 695,
+    "details": {
+      "line1" : "Earn 5% cash back on Walmart.com including pickup and delivery",
+      "line2" : "2% cash back in Walmart stores, at restaurants and on travel.",
+      "line3" : "Redeem rewards for trips and travel purchases you make using your Capital One Walmart Rewards"
+    }
+  }
+]
